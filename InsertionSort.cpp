@@ -1,10 +1,7 @@
-###################################
-## www.mindwareLab.org Copyright ##
-###################################
-
-#include "stdafx.h"
+//###################################
+//## www.mindwareLab.org Copyright ##
+//###################################
 #include "iostream"
-#include "Windows.h"
 #include <chrono>
 
 
